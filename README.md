@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pannyboy
-- 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Penetration Testing on HackTheBox
 - 💞️ I’m looking to collaborate on idk yet
 - 📫 How to reach me on on my email (p.kourtis2@yahoo.com)
 
