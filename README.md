@@ -1,60 +1,72 @@
-# Hello, I'm Panagiotis
-<a href="https://www.linkedin.com/in/panagiotis-kourtis-9013ab301/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi there! 👋
 
-[Brief Introduction - Remove this afterwards]
+Welcome to my GitHub profile! Here's a bit about me:
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+---
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🎯 Objective
+I'm a final-year student at the National and Kapodistrian University of Athens, specializing in Digital Industry Systems. My goal is to build a career in cybersecurity, network technologies, and software development, with a focus on creating efficient, secure, and innovative solutions.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 🛠 Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+### Programming Languages
+- Python (basic scripting and automation)
+- Bash (basic knowledge for Linux environments)
+- HTML & PHP (familiarity with creating web applications)
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Networking and Cybersecurity
+- CCNA: Switching, Routing, and Wireless Essentials (Cisco)
+- Beginner-level penetration testing knowledge through HackTheBox
+- Basic understanding of network protocols and port scanning
+- Tools: Cisco Packet Tracer, Nmap
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Database Management
+- MySQL and phpMyAdmin for database design and management
+- Experience with creating and managing tables, data insertion, and SQL queries
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### Web Development
+- Familiar with creating dynamic websites for university projects
+- Basic backend development with PHP and MySQL
+- Simple front-end form validation using JavaScript
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## ⚙️ Tools I Use
+- **Networking**: Cisco Packet Tracer, Wireshark, Nmap
+- **Programming**: Python, Bash, C
+- **Platforms**: HackTheBox, TryHackMe
+- **Version Control**: Git
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+---
+
+## 🚀 Projects
+Here are a few highlights of my work:
+
+### Simple Single-Threaded Port Scanner
+- Developed a Python script to scan and identify open ports on a target host.
+- Integrated customizable port ranges and efficient reporting of open ports.
+
+### Database Management System
+- Designed and implemented secure login systems using PHP and MySQL.
+- Managed data insertion, retrieval, and validation for user authentication.
+
+---
+
+## 🌱 What I'm Learning
+I'm currently enhancing my skills in:
+- Penetration testing through HackTheBox Academy
+- Advanced Python scripting for automation
+- Emerging trends in cybersecurity and network technologies
+
+---
+
+## 📫 Let's Connect
+Feel free to reach out or collaborate! You can find me here:
+- [LinkedIn Profile](https://www.linkedin.com/in/panagiotis-kourtis1/)
+- [Email](mailto:p.kourtis2@yahoo.com)
+
+---
+
+Thank you for visiting my profile! Let's build something amazing together! 🚀
